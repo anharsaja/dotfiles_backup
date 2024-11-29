@@ -1,6 +1,13 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
 
+vim.cmd("highlight Normal guibg=NONE ctermbg=NONE")
+vim.cmd("highlight NonText guibg=NONE ctermbg=NONE")
+vim.cmd("highlight SignColumn guibg=NONE ctermbg=NONE")
+vim.cmd("highlight VertSplit guibg=NONE ctermbg=NONE")
+vim.cmd("highlight StatusLine guibg=NONE ctermbg=NONE")
+vim.cmd("highlight StatusLineNC guibg=NONE ctermbg=NONE")
+
 vim.o.syntax = "on"
 
 vim.o.termguicolors = true

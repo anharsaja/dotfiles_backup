@@ -1,0 +1,6 @@
+2024/11/29-06:25:11.153 46ceb Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_download.gtpshost.com_0.indexeddb.leveldb since it was missing.
+2024/11/29-06:25:11.156 46ceb Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_download.gtpshost.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/29-06:25:11.175 46cec Level-0 table #5: started
+2024/11/29-06:25:11.178 46cec Level-0 table #5: 1324 bytes OK
+2024/11/29-06:25:11.180 46cec Delete type=0 #3
+2024/11/29-06:25:11.180 46ceb Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
