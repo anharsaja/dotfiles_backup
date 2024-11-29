@@ -7,9 +7,6 @@
         "folders": [
             {
                 "folderUri": "file:///home/anharsaja/Coding/konsuktasi"
-            },
-            {
-                "folderUri": "file:///home/anharsaja/Coding/rekber-kuy"
             }
         ],
         "emptyWindows": []
@@ -42,10 +39,10 @@
             "backupPath": "/home/anharsaja/.config/Code - OSS/Backups/a2f9a1e22c8b3d6cd168a7362f37672e",
             "uiState": {
                 "mode": 1,
-                "x": 12,
-                "y": 62,
-                "width": 1896,
-                "height": 1006
+                "x": 11,
+                "y": 61,
+                "width": 1898,
+                "height": 1008
             }
         },
         "openedWindows": []
@@ -100,21 +97,11 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/anharsaja/Coding/rekber-kuy",
-                                        "path": "/home/anharsaja/Coding/rekber-kuy",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Coding/rekber-kuy"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -126,6 +113,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Coding/konsuktasi"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/anharsaja/Coding/rekber-kuy",
+                                        "path": "/home/anharsaja/Coding/rekber-kuy",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Coding/rekber-kuy"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -354,13 +352,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "saveAll",
@@ -461,13 +457,11 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -516,13 +510,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -992,7 +984,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1001,7 +994,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
