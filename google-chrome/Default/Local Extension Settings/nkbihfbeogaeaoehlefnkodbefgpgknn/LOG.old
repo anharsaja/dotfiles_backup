@@ -1,0 +1,14 @@
+2024/11/28-20:35:14.603 25da Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2024/11/28-20:35:14.603 25da Recovering log #151
+2024/11/28-20:35:14.607 25da Level-0 table #154: started
+2024/11/28-20:35:14.618 25da Level-0 table #154: 2330931 bytes OK
+2024/11/28-20:35:14.620 25da Delete type=0 #151
+2024/11/28-20:35:14.620 25dc Compacting 4@0 + 1@1 files
+2024/11/28-20:35:14.633 25dc Generated table #156@0: 1 keys, 212043 bytes
+2024/11/28-20:35:14.634 25dc Compacted 4@0 + 1@1 files => 212043 bytes
+2024/11/28-20:35:14.635 25dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-20:35:14.635 25dc Delete type=2 #154
+2024/11/28-20:35:14.635 25dc Delete type=2 #152
+2024/11/28-20:35:14.635 25dc Delete type=2 #150
+2024/11/28-20:35:14.635 25dc Delete type=2 #147
+2024/11/28-20:35:14.635 25dc Delete type=2 #144

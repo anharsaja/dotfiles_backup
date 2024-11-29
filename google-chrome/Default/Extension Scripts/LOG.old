@@ -1,0 +1,15 @@
+2024/11/28-20:35:12.164 25da Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/Extension Scripts/MANIFEST-000001
+2024/11/28-20:35:12.164 25da Recovering log #272
+2024/11/28-20:35:12.170 25da Reusing old log /home/anharsaja/.config/google-chrome/Default/Extension Scripts/000272.log 
+2024/11/28-20:35:13.036 25db Level-0 table #276: started
+2024/11/28-20:35:13.046 25db Level-0 table #276: 1075824 bytes OK
+2024/11/28-20:35:13.048 25db Delete type=0 #272
+2024/11/28-20:35:13.049 25db Compacting 4@0 + 1@1 files
+2024/11/28-20:35:13.077 25db Generated table #277@0: 2 keys, 35365 bytes
+2024/11/28-20:35:13.077 25db Compacted 4@0 + 1@1 files => 35365 bytes
+2024/11/28-20:35:13.079 25db compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-20:35:13.079 25db Delete type=2 #271
+2024/11/28-20:35:13.079 25db Delete type=2 #269
+2024/11/28-20:35:13.079 25db Delete type=2 #267
+2024/11/28-20:35:13.079 25db Delete type=2 #276
+2024/11/28-20:35:13.079 25db Delete type=2 #273

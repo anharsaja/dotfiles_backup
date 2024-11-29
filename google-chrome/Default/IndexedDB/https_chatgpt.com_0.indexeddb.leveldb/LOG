@@ -1,0 +1,14 @@
+2024/11/28-23:08:48.299 461 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-23:08:48.299 461 Recovering log #162
+2024/11/28-23:08:48.300 461 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000162.log 
+2024/11/28-23:08:48.300 461 Delete type=2 #160
+2024/11/28-23:08:48.419 471 Level-0 table #167: started
+2024/11/28-23:08:48.422 471 Level-0 table #167: 921 bytes OK
+2024/11/28-23:08:48.426 471 Delete type=0 #162
+2024/11/28-23:08:48.427 461 Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at '\x00.\x00\x00\x05' @ 1645 : 1
+2024/11/28-23:08:48.427 461 Compacting 1@0 + 1@1 files
+2024/11/28-23:08:48.431 461 Generated table #168@0: 115 keys, 1992 bytes
+2024/11/28-23:08:48.431 461 Compacted 1@0 + 1@1 files => 1992 bytes
+2024/11/28-23:08:48.433 461 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-23:08:48.434 461 Delete type=2 #167
+2024/11/28-23:08:48.434 460 Manual compaction at level-0 from '\x00.\x00\x00\x05' @ 1645 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)

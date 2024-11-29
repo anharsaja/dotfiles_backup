@@ -1,0 +1,18 @@
+2024/11/28-23:08:42.752 4 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2024/11/28-23:08:42.753 4 Recovering log #1122
+2024/11/28-23:08:42.754 4 Reusing old log /home/anharsaja/.config/google-chrome/Default/Session Storage/001122.log 
+2024/11/28-23:09:29.082 5 Level-0 table #1126: started
+2024/11/28-23:09:29.097 5 Level-0 table #1126: 78890 bytes OK
+2024/11/28-23:09:29.100 5 Delete type=0 #1122
+2024/11/28-23:09:29.101 5 Compacting 4@0 + 1@1 files
+2024/11/28-23:09:29.121 5 Generated table #1127@0: 2069 keys, 934438 bytes
+2024/11/28-23:09:29.121 5 Compacted 4@0 + 1@1 files => 934438 bytes
+2024/11/28-23:09:29.123 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-23:09:29.124 5 Delete type=2 #1117
+2024/11/28-23:09:29.124 5 Delete type=2 #1119
+2024/11/28-23:09:29.124 5 Delete type=2 #1126
+2024/11/28-23:09:29.124 5 Delete type=2 #1123
+2024/11/28-23:09:29.124 5 Delete type=2 #1121
+2024/11/28-23:09:31.920 5 Level-0 table #1129: started
+2024/11/28-23:09:31.932 5 Level-0 table #1129: 37881 bytes OK
+2024/11/28-23:09:31.936 5 Delete type=0 #1125
